@@ -1,16 +1,18 @@
-### Hi there 👋
+pkg update
 
-<!--
-**Sk-raihan/sk-raihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pkg upgrade
 
-Here are some ideas to get you started:
+pkg install python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+pkg install python2 
+
+pip2 install requests mechanize
+
+pkg install git
+
+git clone
+https://github.com/account/sk-raihan/skraihan
+
+cd sk-raihan
+
+python2 sk-raihan.py
